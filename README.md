@@ -1,10 +1,9 @@
-###########################Importend##################README###########################################################################
-
+#Importend README
 ********************notice****************
 Now it´s a quick and dirty solution without any nightly build of the lcdproject or some fixes!
-******************************************
 
 
++++++++++++++++++++++++++++++++++++++++++++
 This is a copy of the original lcdproc project!
 modified by donpaschi@gmail.com alias Reick 23.02.2016.
 
@@ -22,8 +21,9 @@ Here is a modified driver. The Projekt can configure and compile for install. Wh
 In future i will fixed this problem with a extended configuration file and i will contact the lcdproc team. 
 +++++++++++++++++++++++++++++++++++++++++++
 
+#Importend README END
++++++++++++++++++++++++++++++++++++++++++++
 
-######################################################################################################################################
 [![Build Status](https://travis-ci.org/lcdproc/lcdproc.svg?branch=master)](https://travis-ci.org/lcdproc/lcdproc)
 
 This is the official repository for the LCDproc project.
