@@ -1,9 +1,10 @@
 #Importend README
-********************notice****************
+#notice
 Now it´s a quick and dirty solution without any nightly build of the lcdproject or some fixes!
 
 
 +++++++++++++++++++++++++++++++++++++++++++
+
 This is a copy of the original lcdproc project!
 modified by donpaschi@gmail.com alias Reick 23.02.2016.
 
@@ -17,7 +18,7 @@ When install this program and the display will flicker or don´t start, then is 
 
 Here is a modified driver. The Projekt can configure and compile for install. When you dont install on hard way, then copy the hd44780.so in your driver folder on your system and configure your LCDd.conf. A example is saved here.
 
-++++++++++++In future++++++++++++++++++++++
+#In future
 In future i will fixed this problem with a extended configuration file and i will contact the lcdproc team. 
 +++++++++++++++++++++++++++++++++++++++++++
 
