@@ -1,4 +1,4 @@
-#Importend README
+#Important README
 #notice
 Now it´s a quick and dirty solution without any nightly build of the lcdproject or some fixes!
 This is tested with hardware from sunfounder.
@@ -32,7 +32,7 @@ https://github.com/Reick/lcdproc/blob/master/LCDd.conf.example
 In future i will fixed this problem with a extended configuration file and i will contact the lcdproc team. 
 +++++++++++++++++++++++++++++++++++++++++++
 
-#Importend README END
+#Important README END
 +++++++++++++++++++++++++++++++++++++++++++
 
 [![Build Status](https://travis-ci.org/lcdproc/lcdproc.svg?branch=master)](https://travis-ci.org/lcdproc/lcdproc)
