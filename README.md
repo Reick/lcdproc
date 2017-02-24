@@ -11,9 +11,11 @@ modified by donpaschi@gmail.com alias Reick 23.02.2016.
 
 
 #I will thanks to follow person´s:
-padcom@gmail.com for the patch 
+https://github.com/padcom
+padcom@gmail.com
 and
-some one else where patch this issue for few years, but i have forgot his name. When i found him i change this line.
+http://www.neighborgeek.net
+Steve Whitcher
 
 +++++++++++++++++++++++++++++++++++++++++++
 
