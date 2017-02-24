@@ -2,7 +2,7 @@
 #notice
 Now it´s a quick and dirty solution without any nightly build of the lcdproject or some fixes!
 This is tested with hardware from sunfounder.
-Works an raspberry pi 2 in future b+ and pi 3.
+Works on raspberry pi 2 in future b+ and pi 3.
 This is a copy of the original lcdproc project!
 modified by donpaschi@gmail.com alias Reick 23.02.2016.
 
