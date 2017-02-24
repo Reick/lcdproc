@@ -1,3 +1,29 @@
+###########################Importend##################README###########################################################################
+
+********************notice****************
+Now it´s a quick and dirty solution without any nightly build of the lcdproject or some fixes!
+******************************************
+
+
+This is a copy of the original lcdproc project!
+modified by donpaschi@gmail.com alias Reick 23.02.2016.
+
+I will thanks to follow person´s:
+padcom@gmail.com for the patch 
+and
+some one else where patch this issue for few years, but i have forgot his name. When i found him i change this line.
+
+This project begun with a issue of controll a LCD HD44780 Display with i2c controller. 
+When install this program and the display will flicker or don´t start, then is the driver libary of the i2c the wrong for the i2c controller. This is a pinout failure of lcdproc. 
+
+Here is a modified driver. The Projekt can configure and compile for install. When you dont install on hard way, then copy the hd44780.so in your driver folder on your system and configure your LCDd.conf. A example is saved here.
+
+++++++++++++In future++++++++++++++++++++++
+In future i will fixed this problem with a extended configuration file and i will contact the lcdproc team. 
++++++++++++++++++++++++++++++++++++++++++++
+
+
+######################################################################################################################################
 [![Build Status](https://travis-ci.org/lcdproc/lcdproc.svg?branch=master)](https://travis-ci.org/lcdproc/lcdproc)
 
 This is the official repository for the LCDproc project.
