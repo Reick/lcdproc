@@ -23,6 +23,7 @@ Here is a modified driver. The Projekt can configure and compile for install. Wh
 ready compiled driver:
 https://github.com/Reick/lcdproc/blob/master/server/drivers/hd44780.so
 Conf:
+https://github.com/Reick/lcdproc/blob/master/LCDd.conf.example
 
 +++++++++++++++++++++++++++++++++++++++++++
 
