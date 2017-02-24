@@ -20,6 +20,10 @@ This project begun with a issue of controll a LCD HD44780 Display with i2c contr
 When install this program and the display will flicker or don´t start, then is the driver library of the i2c the wrong for the i2c controller. This is a pinout failure of lcdproc. 
 
 Here is a modified driver. The Projekt can configure and compile for install. When you dont install on hard way, then copy the hd44780.so in your driver folder on your system and configure your LCDd.conf. A example is saved here.
+ready compiled driver:
+https://github.com/Reick/lcdproc/blob/master/server/drivers/hd44780.so
+Conf:
+
 +++++++++++++++++++++++++++++++++++++++++++
 
 #In future
